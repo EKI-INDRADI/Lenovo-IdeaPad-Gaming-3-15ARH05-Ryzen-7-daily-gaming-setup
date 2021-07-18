@@ -5,8 +5,8 @@ Problem
 - GTX 1650 TI mobile full load on game 77-83'C by default
 
 Solution for daily gaming [safe avg temperature 65-75'C]:
-- Ryzen 7 4800H, https://github.com/EKI-INDRADI/gtx-1650-ti-mobile-underclock-temp-limit
-- GTX 1650 TI mobile, https://github.com/EKI-INDRADI/ryzen-7-4800h-temp-limit
+- Ryzen 7 4800H, https://github.com/EKI-INDRADI/ryzen-7-4800h-temp-limit
+- GTX 1650 TI mobile,  https://github.com/EKI-INDRADI/gtx-1650-ti-mobile-underclock-temp-limit
 
 ![TESTED](https://github.com/EKI-INDRADI/gtx-1650-ti-mobile-underclock-temp-limit/raw/master/RUNNING_TEST.png)
 
